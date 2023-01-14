@@ -1,2 +1,7 @@
-# hyperblog
-Un blog increible para el curso de git y Githuba de platzi
+**HYPERBLOG**
+### Este es el readme de mi repositorio e github
+
+- Lo que busco cone ste curso es poder posutlar a nuevos empleos y poder aummentar mi sueldo :bowtie: :bowtie:
+-coloque elmersan
+- lmeresansnsnsns
+-prieba 3 y final
